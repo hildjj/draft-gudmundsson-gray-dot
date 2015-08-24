@@ -1,7 +1,7 @@
 ---
 title: IETF Emeritus Community
 abbrev: STuPiD
-docname: draft-gudmundsson-gray-dot
+docname: draft-gudmundsson-gray-dot-latest
 date: 2015-08-24
 category: bcp
 updates: 7437
