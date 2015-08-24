@@ -155,7 +155,7 @@ Year #3
   be available to WG and design teams that would like outside
   arbitrators/guides/mentors to help them overcome issues.
 
-# Emeriti expectations
+# Emeriti Expectations
 
 * Help the mentorship program, with volunteers that they train.
 * Host the newcomers reception.
@@ -178,10 +178,10 @@ thoughtfully considering their input.
 By giving international participants access to impartial experienced guides the
 hope the impact of international participants will increase.
 
-# Security considerations
+# Security Considerations
 
 Not applicable
 
 # IANA Considerations:
 
-None
+None (Note: we could decide to do an IANA registry of Emeriti for posterity)
