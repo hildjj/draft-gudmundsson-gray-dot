@@ -1,6 +1,6 @@
 # draft-gudmundsson-gray-dot
 
-This is the working area for|draft-gudmundsson-gray-dot|
+This is the working area for **draft-gudmundsson-gray-dot**.
 
 * [Editor's copy](https://hildjj.github.io/draft-gudmundsson-gray-dot/)
 
