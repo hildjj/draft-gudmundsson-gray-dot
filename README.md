@@ -1,16 +1,13 @@
-# |DRAFT-TITLE|
+# draft-gudmundsson-gray-dot
 
-This is the working area for the [IETF |WG-TITLE| Working
-Group](https://trac.tools.ietf.org/wg/|WG-NAME|/trac/wiki) draft of |DRAFT-TITLE|
+This is the working area for|draft-gudmundsson-gray-dot|
 
-* [Editor's copy](https://|THIS-USER|.github.io/|THIS-DRAFT|/)
-* [Working Group Draft] (https://tools.ietf.org/html/|DRAFT-NAME|)
-
+* [Editor's copy](https://hildjj.github.io/draft-gudmundsson-gray-dot/)
 
 ## Contributing
 
 Before submitting feedback, please familiarize yourself with our current issues
-list and review the [working group home page](|WG-HOMEPAGE|). If you're
+list. If you're
 new to this, you may also want to read the [Tao of the
 IETF](https://www.ietf.org/tao.html).
 
@@ -18,8 +15,7 @@ Be aware that all contributions to the specification fall under the "NOTE WELL"
 terms outlined below.
 
 1. The best way to provide feedback (editorial or design) and ask questions is
-sending an e-mail to [our mailing
-list](https://www.ietf.org/mailman/listinfo/|WG-NAME|). This will ensure that
+sending an e-mail to **TBD**. This will ensure that
 the entire Working Group sees your input in a timely fashion.
 
 2. If you have **editorial** suggestions (i.e., those that do not change the

@@ -256,9 +256,9 @@ ifneq (1,$(words $(drafts)))
 	@! echo "Error: This setup only works with a single draft"
 endif
 	git add $(addsuffix $(firstword $(draft_types)),$(basename $<))
-	git rm README.md WG-SETUP.md
-	-git rm template.md
-	-git rm template.xml
+	git rm --ignore-unmatch README.md WG-SETUP.md
+	-git rm --ignore-unmatch template.md
+	-git rm --ignore-unmatch template.xml
 	git mv README-template.md README.md
 	DRAFT_NAME=$$(echo $< | cut -f 1 -d . -); \
 	  AUTHOR_LABEL=$$(echo $< | cut -f 2 -d - -); \
